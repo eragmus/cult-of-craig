@@ -18,6 +18,7 @@ Facts about CSW's Involvement in Bitcoin
 ## Fraud
 
 * [Craig Wright lied about owning MtGox' bitcoin](http://archive.is/Nf7ix)
+* [Craig Wright plagarized a research paper by copy/pasting it](https://twitter.com/peterrizun/status/983752297363660800?lang=en)
 * [Craig Wright falsely states he doesn't want fame or money](https://www.youtube.com/watch?v=5DCAC1j2HTY)
 
 ## Experts stating Craig Wright is a fraud
